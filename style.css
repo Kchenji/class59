@@ -1,0 +1,34 @@
+img{
+    height: 200px;
+    width: 300px;
+    
+}
+
+body{
+background:linear-gradient(skyblue 0%, red 100%);  
+    
+ text-align: center;
+    
+    
+}
+
+.about{
+    height: 6px;
+    width: 70px;
+    
+    background-color: firebrick;
+    margin: 8px auto;
+}
+p{
+    max-width: 400px;
+    margin: 25px auto;
+
+    
+    
+}
+.menu{list-style: none;
+right: 30px;
+    top:15px;
+    position: fixed;
+    z-index: 999999999999999999999999999;}
+.links{}
